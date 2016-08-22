@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.3191489
 color:
   saturation: 0.4723404
   brandStrength: 0.4668283
@@ -21,6 +22,5 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   rhythmicContrast: 0.4744681
-typography_spectrum: 0.3191489
-layout_spectrum: 0
+layout_spectrum: 1
 name: HARBINGER
