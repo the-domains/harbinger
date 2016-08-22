@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.3191489
 color:
   saturation: 0.8659574
   brandStrength: 0.4668283
-  lightness: 0
+  rhythmicContrast: 0.9851064
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.9851064
-typography_spectrum: 0.5489362
+  lightness: 0
 layout_spectrum: 0
 name: HARBINGER
