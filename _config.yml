@@ -1,9 +1,19 @@
-layout_spectrum: 0.4491145
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5489362
 color:
   saturation: 0.5425532
   brandStrength: 0.4668283
-  lightness: 0.4042553
   rhythmicContrast: 0.4340425
   brandColors:
     - '#17BEBB'
@@ -11,4 +21,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.4042553
+layout_spectrum: 0
 name: HARBINGER
