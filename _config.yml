@@ -1,0 +1,14 @@
+layout_spectrum: 0.4491145
+typography_spectrum: 0.5489362
+color:
+  saturation: 0.5425532
+  brandStrength: 0.4668283
+  lightness: 0.4042553
+  rhythmicContrast: 0.4340425
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: HARBINGER
